@@ -2,15 +2,15 @@
 <h3 align="center">An engineering student and passionate programmer.</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" /> 
 
-🔭 I’m currently working on Python Projects
+- 🔭 I’m currently working on Python Projects
  
-🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning ReactJS 
 
-💬 Ask me anything 
+- 💬 Ask me anything 
 
-📫 How to reach me: **atharva.r.bhagat@gmail.com**
+- 📫 How to reach me: **atharva.r.bhagat@gmail.com**
 
-<h4>Get connected with me</h4>
+<h3>Get connected with me</h3>
 
 <a href="https://instagram.com/ath.ar.va">
   <img align="left" alt="Atharva's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
@@ -22,8 +22,9 @@
   <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-
-<h4>Languages and Tools:  </h4>
+<br/>
+<br/>
+<h3>Languages and Tools:  </h3>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -36,7 +37,7 @@
 
 
 
-📈 My GitHub Stats
+<h3>📈 My GitHub Stats</h3>
 
 <img src="https://github-readme-stats.vercel.app/api?username=AtharvaBhagat&show_icons=true&theme=gotham" alt="AtharvaBhagat" />
   
