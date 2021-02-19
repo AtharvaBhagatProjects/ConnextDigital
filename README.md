@@ -2,10 +2,10 @@
 <h3 align="center">An engineering student and passionate programmer.</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" /> 
 
-<br/><br/><br/>
+<br/><br/>
 - 🔭 I’m currently working on Python Projects
  
-- 🌱 I’m currently learning ReactJS 
+- 🌱 I’m currently learning ReactJS
 
 - 💬 Ask me anything 
 
@@ -26,19 +26,22 @@
 <br/>
 <h3>Languages and Tools:  </h3>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
+</p>
 
 
 
 <h3>📈 My GitHub Stats</h3>
-
-<img src="https://github-readme-stats.vercel.app/api?username=AtharvaBhagat&show_icons=true&theme=gotham" alt="AtharvaBhagat" />
+<p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AtharvaBhagat&show_icons=true&theme=dark&locale=en&layout=compact" alt="AtharvaBhagat"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=AtharvaBhagat&show_icons=true&theme=dark&locale=en" alt="AtharvaBhagat" />
+ </p>
   
 
