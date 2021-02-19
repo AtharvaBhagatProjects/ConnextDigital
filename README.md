@@ -1,6 +1,6 @@
 <h1 align="center">Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I am Atharva Bhagat</h1>
 <h3 align="center">An engineering student and passionate programmer.</h3>
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300" height="200" /> 
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" /> 
 
 🔭 I’m currently working on Python Projects
  
@@ -22,7 +22,8 @@
   <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-**Languages and Tools:**  
+
+<h4>Languages and Tools:  </h4>
 <p>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
@@ -34,8 +35,9 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </p>
 
 
-<p>
+
 📈 My GitHub Stats
-<img src="https://github-readme-stats.vercel.app/api?username=AtharvaBhagat&show_icons=true&theme=gotham" alt="AtharvaBhagat" /></p>
+
+<img src="https://github-readme-stats.vercel.app/api?username=AtharvaBhagat&show_icons=true&theme=gotham" alt="AtharvaBhagat" />
   
 
