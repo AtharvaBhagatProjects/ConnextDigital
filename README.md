@@ -2,7 +2,7 @@
 <h3 align="center">An engineering student and passionate programmer.</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" /> 
 
-<br/><br/>
+<br/>
 - 🔭 I’m currently working on Python Projects
  
 - 🌱 I’m currently learning ReactJS
@@ -10,16 +10,16 @@
 - 💬 Ask me anything 
 
 - 📫 How to reach me: **atharva.r.bhagat@gmail.com**
-
+<br/>
 <h3>Get connected with me</h3>
 
-<a href="https://instagram.com/ath.ar.va">
+<a href="https://instagram.com/ath.ar.va" target="blank">
   <img align="left" alt="Atharva's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
 </a>
-<a href="https://twitter.com/AtharvaRBhagat">
+<a href="https://twitter.com/AtharvaRBhagat" target="blank">
   <img align="left" alt="Atharva Raj Bhagat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href=https:"//www.linkedin.com/in/atharva-raj-bhagat-365a8a194/">
+<a href=https:"//www.linkedin.com/in/atharva-raj-bhagat-365a8a194/" target="blank">
   <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
