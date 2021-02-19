@@ -2,6 +2,7 @@
 <h3 align="center">An engineering student and passionate programmer.</h3>
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="270" /> 
 
+<br/><br/><br/>
 - 🔭 I’m currently working on Python Projects
  
 - 🌱 I’m currently learning ReactJS 
@@ -22,7 +23,6 @@
   <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-<br/>
 <br/>
 <h3>Languages and Tools:  </h3>
 <p>
