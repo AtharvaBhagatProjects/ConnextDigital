@@ -15,10 +15,10 @@
 <h3>Get connected with me</h3>
 
 <a href="https://instagram.com/ath.ar.va" target="blank">
-  <img align="left" alt="Atharva's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" />
+  <img align="left" alt="Atharva's Instagram" width="30px" src="insta.png" />
 </a>
 <a href="https://twitter.com/AtharvaRBhagat" target="blank">
-  <img align="left" alt="Atharva Raj Bhagat | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Atharva Raj Bhagat | Twitter" width="30px" src="tweet.png" />
 </a>
 <a href="https://www.linkedin.com/in/atharva-raj-bhagat-365a8a194/" target="blank">
   <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -27,14 +27,16 @@
 <br/>
 <h3>Languages and Tools:  </h3>
 <p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>  
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-<img src="https://github.com/AtharvaBhagat/Portfolio/blob/8bb7a9264be76d263d852c02fd04a0c8c56a9f19/images/c++.png" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+<img src="javascript.png" alt="javascript" width="40" height="40"/>  
+<img src="mysql.png" alt="mysql" width="40" height="40"/>  
+<img src="python.png" alt="python" width="40" height="40"/> 
+<img src="java.png" alt="java" width="40" height="40"/> 
+<img src="c++.png" width="40" height="40"/> 
+<img src="css.png" alt="css3" width="40" height="40"/> 
+<img src="html.png" alt="html5" width="40" height="40"/>
+ <img src="django.png" alt="html5" width="40" height="40"/>
+ <img src="vsc.png" alt="html5" width="40" height="40"/>
+ <img src="git.png" alt="html5" width="40" height="40"/>
 </p>
 
 
