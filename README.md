@@ -4,9 +4,9 @@
 
 <br/><br/>
 
-- 🔭 I’m currently working on MERN Stack
+- 🔭 I’m currently working on MERN Stack (Next.JS)
  
-- 🌱 I’m currently learning NextJS
+- 🌱 I’m currently learning Data Science
 
 - 💬 Ask me anything 
 
@@ -20,7 +20,7 @@
 <a href="https://twitter.com/AtharvaRBhagat" target="blank">
   <img align="left" alt="Atharva Raj Bhagat | Twitter" width="30px" src="tweet.png" />
 </a>
-<a href="https://www.linkedin.com/in/atharva-raj-bhagat-365a8a194/" target="blank">
+<a href="https://www.linkedin.com/in/atharva-bhagat-2108/" target="blank">
   <img align="left" alt="Atharva's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
