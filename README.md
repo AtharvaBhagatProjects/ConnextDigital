@@ -28,7 +28,7 @@
 <h3>Languages and Tools:  </h3>
 <p>
 <img src="javascript.png" alt="javascript" width="40" height="40"/>  
- <img src="react.png" alt="mysql" width="40" height="40"/>
+<img src="react.png" alt="mysql" width="40" height="40"/>
 <img src="mysql.png" alt="mysql" width="40" height="40"/>  
 <img src="python.png" alt="python" width="40" height="40"/> 
 <img src="java.png" alt="java" width="40" height="40"/> 
