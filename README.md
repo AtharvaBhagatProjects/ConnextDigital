@@ -8,7 +8,7 @@
  
 - 🌱 I’m currently learning Data Science
 
-- 💬 Visit : **atharvabhagat.vercel.app** 
+- 💬 Visit : **atharvabhagat.vercel.app**
 
 - 📫 How to reach me: **atharva.r.bhagat@gmail.com**
 <br/>
